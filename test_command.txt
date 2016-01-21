@@ -1,0 +1,2 @@
+nohup python mnist-lstm.py 100 50 0.001 0.9 5.0 > test.out &
+
